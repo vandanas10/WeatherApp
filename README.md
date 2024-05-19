@@ -10,7 +10,7 @@ This is a simple web application that allows users to check the weather forecast
 ## Technologies Used
 
 - HTML
-- CSS3
+- CSS
 - Bootstrap
 - JavaScript
 - RapidAPI (for fetching weather data)
