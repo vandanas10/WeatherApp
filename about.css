@@ -1,0 +1,36 @@
+/* Style the container to center the card */
+.container {
+    height: 100vh;
+}
+
+/* Style the card */
+.card {
+    width: 18rem;
+    margin-top: auto; /* Align card at the vertical center */
+    margin-bottom: auto; /* Align card at the vertical center */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Add a shadow effect */
+}
+
+.card-img-top {
+    object-fit: cover; /* Make sure the image covers the whole area */
+}
+
+.card-title {
+    color: #333; /* Darken the title color */
+}
+
+.card-text {
+    color: #555; /* Darken the text color */
+}
+
+.card-link {
+    color: #007bff; /* Change link color */
+    text-decoration: none; /* Remove underline */
+}
+
+.card-link:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
+.home_link{
+    padding-right: 50px;
+}
