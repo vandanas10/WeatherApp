@@ -1,0 +1,15 @@
+.far fa-humidity {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+}
+
+.thick {
+
+    font-weight: bold;
+}
+.navbar-brand:hover::after{
+    transform: scaleX(1);
+    transform-origin: left;
+}
